@@ -27,10 +27,6 @@ end
 
 -- Combat Warriors 
 
-if game.PlaceId == 4282985734 then
-local Player = game:GetService("Players")
-elseif Player:Kick("Not Supported")
-
     -- UI Setup
     local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
     local Window = Library.CreateLib("TUES Hub Alpha", "Synapse")
